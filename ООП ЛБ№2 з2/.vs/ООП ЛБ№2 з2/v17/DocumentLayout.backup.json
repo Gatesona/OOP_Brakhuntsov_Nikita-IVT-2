@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Sourse\\\u041E\u041E\u041F \u041B\u0411\u21162 \u04372\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{945072E1-18A1-439C-AA07-4D4CDFAFF2BB}|\u041E\u041E\u041F \u041B\u0411\u21162 \u04372\\\u041E\u041E\u041F \u041B\u0411\u21162 \u04372.vcxproj|D:\\Sourse\\\u041E\u041E\u041F \u041B\u0411\u21162 \u04372\\\u041E\u041E\u041F \u041B\u0411\u21162 \u04372\\\u041E\u041E\u041F \u041B\u0411\u21162 \u04372.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{945072E1-18A1-439C-AA07-4D4CDFAFF2BB}|\u041E\u041E\u041F \u041B\u0411\u21162 \u04372\\\u041E\u041E\u041F \u041B\u0411\u21162 \u04372.vcxproj|solutionrelative:\u041E\u041E\u041F \u041B\u0411\u21162 \u04372\\\u041E\u041E\u041F \u041B\u0411\u21162 \u04372.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u041E\u041E\u041F \u041B\u0411\u21162 \u04372.cpp",
+              "DocumentMoniker": "D:\\Sourse\\\u041E\u041E\u041F \u041B\u0411\u21162 \u04372\\\u041E\u041E\u041F \u041B\u0411\u21162 \u04372\\\u041E\u041E\u041F \u041B\u0411\u21162 \u04372.cpp",
+              "RelativeDocumentMoniker": "\u041E\u041E\u041F \u041B\u0411\u21162 \u04372\\\u041E\u041E\u041F \u041B\u0411\u21162 \u04372.cpp",
+              "ToolTip": "D:\\Sourse\\\u041E\u041E\u041F \u041B\u0411\u21162 \u04372\\\u041E\u041E\u041F \u041B\u0411\u21162 \u04372\\\u041E\u041E\u041F \u041B\u0411\u21162 \u04372.cpp",
+              "RelativeToolTip": "\u041E\u041E\u041F \u041B\u0411\u21162 \u04372\\\u041E\u041E\u041F \u041B\u0411\u21162 \u04372.cpp",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAIAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-28T14:43:11.166Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
